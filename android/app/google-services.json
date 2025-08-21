@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22078198830",
+    "project_id": "actividad4-cc071",
+    "storage_bucket": "actividad4-cc071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22078198830:android:ee69ea6730decdf556fbbf",
+        "android_client_info": {
+          "package_name": "com.ionicfirst.orders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjKhnBT_mRF5IlzZSGrb4Tnct_jOuOXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
