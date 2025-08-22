@@ -102,6 +102,10 @@ ionic capacitor run android
 ionic capacitor run ios
 ```
 
+* Usage
+  
+![showoff](https://github.com/user-attachments/assets/e69e9541-3671-475b-a3dd-6c90e8c71425)
+
 ---
 
 ## 🧪 Minimum Content Requirements
